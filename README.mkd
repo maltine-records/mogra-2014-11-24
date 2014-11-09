@@ -1,0 +1,17 @@
+
+# Development
+
+```
+npm install grunt bower -g
+npm install
+bower install
+grunt
+```
+
+open http://localhost:3000/
+
+edit `src` direcotry
+
+# Release
+
+copy `dest` direcotry to public_html folder

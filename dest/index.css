@@ -37,7 +37,7 @@ div#ufo-wrap .ufo_move {
 }
 video.nikogi {
   z-index: 1100;
-  border: 1px solid #fff;
+  border: 2px solid #800080;
 }
 a {
   color: #fff;
@@ -88,6 +88,7 @@ ul.list {
 }
 div.human p {
   font-size: 20px;
+  font-weight: bold;
   color: #fff;
 }
 table {
