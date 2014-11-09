@@ -14,4 +14,8 @@ edit `src` direcotry
 
 # Release
 
+```
+grunt make
+```
+
 copy `dest` direcotry to public_html folder
